@@ -1,6 +1,5 @@
 # Computer Vision 
 
-#Repository
 
 ## Description
 
